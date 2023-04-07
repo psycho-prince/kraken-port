@@ -1,0 +1,3 @@
+git clone _______url____
+cd kraken-port
+python3 openport.py
