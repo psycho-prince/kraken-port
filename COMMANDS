@@ -1,3 +1,8 @@
 git clone _______url____
 cd kraken-port
-python3 openport.py
+python3 kraken.py
+
+type 1 for port scan
+enter the ip of the system 
+
+select range from 1-1000 to scan 
